@@ -83,4 +83,4 @@ The notebook includes:
 * Deploy the model as a simple web app (Streamlit) for user-friendly predictions.
 
 ---
-*This project was built as part of the "Aerospace Design with Noyron" learning path.*
+
